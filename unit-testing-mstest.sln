@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeService", "PrimeService\PrimeService.csproj", "{EAAE32A3-2312-4A40-A0D6-B93A0828AE50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeService.Tests", "PrimeService.Tests\PrimeService.Tests.csproj", "{5CCEC1E9-DD02-49EE-BF22-155B3D1305B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAAE32A3-2312-4A40-A0D6-B93A0828AE50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAAE32A3-2312-4A40-A0D6-B93A0828AE50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAAE32A3-2312-4A40-A0D6-B93A0828AE50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAAE32A3-2312-4A40-A0D6-B93A0828AE50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CCEC1E9-DD02-49EE-BF22-155B3D1305B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CCEC1E9-DD02-49EE-BF22-155B3D1305B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CCEC1E9-DD02-49EE-BF22-155B3D1305B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CCEC1E9-DD02-49EE-BF22-155B3D1305B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
