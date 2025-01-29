@@ -1,0 +1,11 @@
+pipeline {
+    agent any
+
+    stages {
+        stage('Echo Message') {
+            steps {
+                echo 'Hello, this is a message from a Windows environment!'
+            }
+        }
+    }
+}
